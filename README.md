@@ -8,21 +8,23 @@ Repositori ini berisi kurikulum yang sengaja dibentuk oleh MALANG JS, materi-mat
 
 Materi ini berisi tentang prosedur yang benar dalam menggunakan Node.js. Mulai dari cara install sampai cara membuat proyek baru berbasis Node.
 
+Pengenalan NPM packages dan ekosistemnya.
+
 ### [S01E02] API Dasar Node.js
 
-Menggunakan API dasar yang ada di Node.js seperti read/write file system, path, logging, dan API dasar lainnya. Serta penggunaan modul external Node.js.
+Menggunakan API dasar yang ada di Node.js seperti read/write file system, path, logging, dan API dasar lainnya. Serta penggunaan modul external Node.js (NPM package).
 
 ### [S01E03] HTTP Server dengan ExpressJS
 
-Pembuatan HTTP Server dengan ExpressJS, termasuk routing, middleware, dll.
+Pembuatan HTTP Server dengan ExpressJS, termasuk routing, middleware, authentication dll.
 
 ### [S01E04] Async Programming
 
-Pemrograman asinkron di Node.js serta cara penggunaannya. Memperbanyak worker agar Node.js bisa berjaan multithread dengan metode clustering (per cpu).
+Pemrograman asinkron di Node.js serta cara penggunaannya. Penggunaan promise untuk async task dan penggunaan observable (RxJS) untuk continuous async flow.
 
 ### [S01E05] Streaming dan Event
 
-Pemrograman event-stream di Node.js, cara penggunaan dan best practicenya.
+Pemrograman event-stream di Node.js, penanganan event-stream dengan promise atau observable (RxJS).
 
 ### [S01E06] Final Project
 
