@@ -10,7 +10,7 @@ Materi ini berisi tentang prosedur yang benar dalam menggunakan Node.js. Mulai d
 
 Pengenalan NPM packages dan ekosistemnya.
 
-Pengenalan ES6 yang optional untuk kemudahan dalam programming di NodeJS
+Pengenalan ES5 dengan `javascripting`, bisa berupa tugas bergantung pada waktu yang ada.
 
 ### [S01E02] API Dasar Node.js
 
