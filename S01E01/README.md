@@ -43,7 +43,7 @@ Disana kita dapat mencari library yang kita butuhkan seperti redis client, kafka
 
 Selain mengimpan informasi daftar dependency project kita, `package.json` juga membantu dalam mempersingkat command dengan `npm scripts` seperti `npm install; npm test; npm start;` yang isinya bisa dituliskan di bagian `scripts` di `package.json`.
 
-![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E06/assets/package-json.png)
+![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E01/assets/package-json.png)
 
 
 Untuk menginisialisasi project baru, silakan buat foldernya terlebih dahulu di terminal lalu masuk ke folder tersebut dan jalankan `npm init`.
