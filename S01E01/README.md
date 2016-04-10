@@ -50,7 +50,7 @@ Untuk menginisialisasi project baru, silakan buat foldernya terlebih dahulu di t
 
 Lalu anda akan ditanyai beberapa hal tentang project baru tersebut oleh npm. Jawab sesuai kebutuhan dan jika sudah oke, masukkan `yes`. Selesai.
 
-![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E06/assets/npm-init.png)
+![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E01/assets/npm-init.png)
 
 
 Mulailah buat file Javascript untuk dieksekusi oleh Node.js seperti:
@@ -59,7 +59,7 @@ Mulailah buat file Javascript untuk dieksekusi oleh Node.js seperti:
 console.log('Hello world!')
 ```
 
-![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E06/assets/hello-js.png)
+![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E01/assets/hello-js.png)
 
 Lalu simpan file tersebut dengan nama `hello.js`.
 Cara menjalankannya?
@@ -70,6 +70,6 @@ Menjalankan file javascript bisa menggunakan perintah
 ```sh
 node hello.js
 ```
-![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E06/assets/run-hello.png)
+![Alt text](https://github.com/malangjs/kurikulum-node-season-1/blob/master/S01E01/assets/run-hello.png)
 
 Jika ingin mengeksekusi file `hello.js` yang baru saja dibuat diatas.
